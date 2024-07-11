@@ -1,2 +1,2 @@
 # React-FappModel
-React Native App
+React Web App Sample
